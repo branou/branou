@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/branou](https://github.com/branou)
 
-- 💬 Ask me about **Spring Boot, AngularJs**
+- 💬 Ask me about **Spring Boot, Angular**
 
 - 📫 How to reach me **brahimanougmar6@gmail.com**
 
